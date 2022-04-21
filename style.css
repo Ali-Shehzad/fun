@@ -1,0 +1,30 @@
+div {
+    text-align: center;
+    font-size: xx-large;
+    
+}
+button {
+    height: 50px;
+    width: 100%;    
+    border-radius: 16px;
+}
+img {
+    
+    width: 100%;
+    
+}
+*{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bolder;
+}
+#btn5{
+    width: 100%;
+    height: 20vh;
+    color: white;
+    background-color: black;font-size: x-large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    border-radius: 16px;
+}
